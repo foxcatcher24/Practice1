@@ -2,9 +2,11 @@ package main.com.mitul.app;
 
 public class App {
     private final String message = "Hello World!";
+    //private final String message = "Hello World";
 
     // Constructor
-    public App(){}
+    public App() {
+    }
 
     // Main Function
     public static void main(String[] args){
